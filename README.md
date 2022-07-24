@@ -42,6 +42,6 @@ Output 1:
 
 # Deployment:
 To run from source code:
-•	git clone https://github.com/Tamilmani9600/Taxi_Booking_Application.git
+•	git clone https://github.com/Maha-Siva/Taxi_Booking_Application.git
 •	mvn package
 •	java -jar target/<jarfilename>.jar
